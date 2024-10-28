@@ -1,2 +1,1 @@
-# randos
-Randos website
+# Randos
